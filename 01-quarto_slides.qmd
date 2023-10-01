@@ -1,0 +1,22 @@
+---
+title: "My First Presentation"
+format: 
+  revealjs:
+    navigation-mode: vertical
+editor: visual
+---
+
+# Welcome to my first Quarto slideshow!
+There will be both horizontal and vertical slides!
+
+# Horizontal slide 1
+- with bullets as well as codes
+```{r}
+x <- 1
+y <- 2
+x + y
+```
+
+## Here comes a vertical slide 1.1
+
+# End of slideshow!
